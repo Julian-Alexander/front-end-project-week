@@ -2,13 +2,13 @@ Arguments:
   C:\Program Files\nodejs\node.exe C:\Users\Julian Alexander\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
 
 PATH: 
-  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Julian Alexander\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\Julian Alexander\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\Julian Alexander\AppData\Roaming\npm
+  C:\cygwin64\usr\local\bin;C:\cygwin64\bin;C:\Users\Julian Alexander\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Julian Alexander\bin;C:\cygwin64\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Users\Julian Alexander\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code Insiders\bin;C:\sqlite3;C:\Users\Julian Alexander\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\Julian Alexander\AppData\Local\Programs\Python\Python37;C:\Users\Julian Alexander\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\Julian Alexander\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Julian Alexander\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\Heroku\bin;C:\Users\Julian Alexander\AppData\Roaming\Python\Python37\Scripts;C:\Users\Julian Alexander\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  8.9.4
+  8.11.1
 
 Platform: 
   win32 x64
@@ -1993,7 +1993,7 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 1073807364
+  Exit code: 3221225786
   Command: C:\Windows\system32\cmd.exe
   Arguments: /d /s /c node server.js
   Directory: C:\Users\Julian Alexander\Documents\LambdaSchool\front-end-project-week
